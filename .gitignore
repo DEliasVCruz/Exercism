@@ -1,0 +1,5 @@
+*.pyc
+*.pyo
+*_test.py
+python/**/*.md
+**/.exercism/
